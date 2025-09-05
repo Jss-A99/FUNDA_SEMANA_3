@@ -11,9 +11,9 @@ def ejer3():
     x = int(input("Ingrese x: "))
     y = int(input("Ingrese y: "))
 
-    print("Suma: ",(x + y))
+    print("\nSuma: ",(x + y))
     print("Resta: ",(x - y))
     print("Multiplicación: ",(x * y))
-    print("Divisón: ",(x / y))
+    print("División: ",(x / y))
 
 ejer3()
