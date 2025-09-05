@@ -29,5 +29,23 @@ namespace SEMANA1_C_
         {
             Console.WriteLine("\"Jessy\"");
         }
+
+        static void ejer3()
+        {
+            Console.WriteLine("Ingrese x: ");
+            int x = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Ingrese y: ");
+            int y = Convert.ToInt32(Console.ReadLine());
+
+            Console.WriteLine("Suma: " +(x + y));
+            Console.WriteLine("Resta: " +(x - y));
+            Console.WriteLine("Multiplicación: " +(x * y));
+            Console.WriteLine("División: " +(x / y));
+        }
+        static void ejer4()
+        {
+            Console.WriteLine("Hola");
+        }
     }
 }
