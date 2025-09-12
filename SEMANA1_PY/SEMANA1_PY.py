@@ -16,4 +16,7 @@ def ejer3():
     print("Multiplicación: ",(x * y))
     print("División: ",(x / y))
 
+def ejer4():
+
+
 ejer3()
